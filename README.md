@@ -112,10 +112,10 @@ plt.show()
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-
 ![image](https://github.com/lokeshrahulv/rnn-stock-price-prediction/assets/118423842/580c9567-4713-45a9-9164-25d8394a1a58)
 
 ### Mean Square Error
+![image](https://github.com/lokeshrahulv/rnn-stock-price-prediction/assets/118423842/4d33ed23-d3d3-4cfc-8bc3-610588798526)
 
 ## Result
 Thus the program is successfully created and executed.
